@@ -1,4 +1,3 @@
-# Medicine-Reminder-and-dosage-tracker
 # Medicine Reminder & Dosage Tracker
 
 **Domain:** Healthcare & Personal Utility  

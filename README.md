@@ -77,7 +77,7 @@ The code is in "vityarthi_projet.py" file attached in this github
 ### Phase 6: Testing
 ---
 Test Case 1: Adding Data
-Input: Name: "Paracetamol", Dosage: "500mg", Time: "14:00"
+Input: Name: "Calpol 650", Dosage: "1*2", Time: "8:00"
 
 Result: Data is saved and displayed correctly in the "View List" option.
 
